@@ -1,0 +1,80 @@
+/*
+
+filename: lab04.css
+
+author: Momona Nakagawa
+
+created: 2025.9.3
+
+last modified: 2025.9.3
+
+description: styles for lab04.html
+
+*/
+
+h1 {
+    color: purple;
+    font-size: 2em; 
+    font-weight: bold;
+}
+
+nav a {
+          text-decoration: none;
+          padding: 0.2em 0.6em;
+          border: 4px solid #ccc;
+         }
+
+aside p {
+    font-style: italic;
+}
+
+
+#headings {
+    color: #008b8b;
+}
+
+#h3red {
+    color: red;
+
+}
+
+#h3gray {
+    color:  #2F4F4F
+}
+
+#sc {
+    color: #008b8b;
+}
+
+.special {
+     color: darkorange;
+     font-weight:bold;
+
+}
+
+#lists {
+    color: #008b8b;
+}
+
+#tables {
+    color: #008b8b;
+}
+
+#hyperlinks {
+    color: #008b8b;
+}
+
+#images {
+    color: #008b8b;
+    text-align : center;
+}
+
+ul {
+    list-style-type: square; 
+}
+
+
+table, td, th, tr {
+    border: 1px
+    solid black;
+}
